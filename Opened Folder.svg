@@ -1,3 +1,39 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 50" width="150px" height="150px">
-  <path d="M 3 4 C 1.347656 4 0 5.347656 0 7 L 0 33.09375 C 1.464844 25.296875 3.105469 16.550781 3.1875 16.125 C 3.695313 13.535156 5.648438 12 8.4375 12 L 47 12 L 47 11 C 47 9.347656 45.652344 8 44 8 L 18.03125 8 C 17.753906 7.898438 17.183594 6.992188 16.875 6.5 C 16.105469 5.273438 15.316406 4 14 4 Z M 8.4375 14 C 7.15625 14 5.5625 14.449219 5.15625 16.53125 C 5.027344 17.179688 1.132813 37.910156 0 43.9375 L 0 44 C 0 45.652344 1.347656 47 3 47 L 42 47 C 43.621094 47 44.945313 45.703125 45 44.09375 L 49.96875 17.1875 L 50 17 C 50 15.347656 48.652344 14 47 14 Z" fill="#000000" />
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 50 50"
+   width="150px"
+   height="150px"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="Opened Folder.svg"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="12.126667"
+     inkscape:cx="75"
+     inkscape:cy="75"
+     inkscape:window-width="1931"
+     inkscape:window-height="1266"
+     inkscape:window-x="356"
+     inkscape:window-y="681"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg1" />
+  <path
+     d="M 3 4 C 1.347656 4 0 5.347656 0 7 L 0 33.09375 C 1.464844 25.296875 3.105469 16.550781 3.1875 16.125 C 3.695313 13.535156 5.648438 12 8.4375 12 L 47 12 L 47 11 C 47 9.347656 45.652344 8 44 8 L 18.03125 8 C 17.753906 7.898438 17.183594 6.992188 16.875 6.5 C 16.105469 5.273438 15.316406 4 14 4 Z M 8.4375 14 C 7.15625 14 5.5625 14.449219 5.15625 16.53125 C 5.027344 17.179688 1.132813 37.910156 0 43.9375 L 0 44 C 0 45.652344 1.347656 47 3 47 L 42 47 C 43.621094 47 44.945313 45.703125 45 44.09375 L 49.96875 17.1875 L 50 17 C 50 15.347656 48.652344 14 47 14 Z"
+     fill="#000000"
+     id="path1"
+     style="fill:#ecc546;fill-opacity:1" />
 </svg>
